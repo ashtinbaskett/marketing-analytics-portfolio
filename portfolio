@@ -2,5 +2,5 @@ cd marketing-analytics-portfolio
 git init -b main
 git add -A
 git commit -m "Marketing analytics portfolio"
-git remote add origin https://github.com/YOUR-USERNAME/marketing-analytics-portfolio.git
+git remote add origin https://github.com/ashtinbaskett/marketing-analytics-portfolio.git
 git push -u origin main
